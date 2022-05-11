@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C55-65F7
+
+ Directory of C:\Users\AC65485\Desktop\MyProject
+
+05/11/2022  12:39 PM    <DIR>          .
+05/11/2022  12:39 PM    <DIR>          ..
+05/11/2022  12:39 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  175,308,161,024 bytes free
